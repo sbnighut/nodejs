@@ -1,0 +1,30 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "This api gateway project is used to route incoming API requests to individual service instances",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbnighut/nodejs.git"
+  },
+  "keywords": [
+    "gateway",
+    "api",
+    "proxy"
+  ],
+  "author": "Swapnil Nighut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbnighut/nodejs/issues"
+  },
+  "homepage": "https://github.com/sbnighut/nodejs#readme"
+}
