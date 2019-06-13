@@ -4,7 +4,7 @@
   "description": "This api gateway project is used to route incoming API requests to individual service instances",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.4"
   },
